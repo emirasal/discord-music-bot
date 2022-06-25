@@ -6,4 +6,4 @@ Required python packages:
 - PyNaCl
 - youtube_dl
  
-& also you need to install "FFmppeg" in order to play the videos from youtube.
+& also you need to install "FFmpeg" in order to play the videos from youtube.
