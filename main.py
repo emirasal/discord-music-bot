@@ -13,4 +13,4 @@ async def on_ready():
   print("Music Bot is now ONLINE")
   await bot.change_presence(activity = discord.Game(name=".play | .help"))
 
-bot.run("INSERT YOUT BOT'S TOKEN HERE")
+bot.run("INSERT YOUR BOT'S TOKEN HERE")
