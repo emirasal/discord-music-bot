@@ -12,4 +12,4 @@ Required python packages:
 
 
 
-You add this bot to your discord server & test: https://discord.com/api/oauth2/authorize?client_id=973560007868174367&permissions=8&scope=bot
+You can add this bot to your discord server: https://discord.com/api/oauth2/authorize?client_id=973560007868174367&permissions=8&scope=bot
